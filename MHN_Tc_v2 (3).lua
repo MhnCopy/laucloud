@@ -14,7 +14,7 @@ if menu1 == 3 then byx3() end
 if menu1 == 4 then byx4() end
 if menu1 == 5 then byx5() end
 if menu1 == 6 then byx6() end
-if menu1 == 8  then Exit() end
+if menu1 == 7  then Exit() end
 XGCK = -1
 end
 
